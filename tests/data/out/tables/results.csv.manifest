@@ -1,0 +1,4 @@
+{
+  "destination": "out.c-main.test",
+  "primary_key": ["batman_primary_key"]
+}
